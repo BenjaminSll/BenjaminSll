@@ -1,8 +1,8 @@
-## HELLO, I'M BENJAMIN
-## JUNIOR RUBY ON RAILS FULL-STACK WEB DEV :rocket:
-## LOOKING FOR A POSITION - AVAILABLE AT YOUR EARLIEST CONVENIENCE 
+### Hello, I'm Benjamin
+### JUNIOR RUBY ON RAILS FULL-STACK WEB DEV :rocket:
+### LOOKING FOR A POSITION - AVAILABLE AT YOUR EARLIEST CONVENIENCE 
 
-# Graduated in march 22 from [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time)(Paris, web-development batch #801).
+Graduated in march 22 from [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time)(Paris, web-development batch #801).
 
 My stack 💻 
 - Ruby
