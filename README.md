@@ -1,10 +1,10 @@
-### HELLO, I'M BENJAMIN
-### JUNIOR RUBY ON RAILS FULL-STACK WEB DEV :rocket:
-### - LOOKING FOR A POSITION - AVAILABLE AT YOUR EARLIEST CONVENIENCE 
+## HELLO, I'M BENJAMIN
+## JUNIOR RUBY ON RAILS FULL-STACK WEB DEV :rocket:
+## LOOKING FOR A POSITION - AVAILABLE AT YOUR EARLIEST CONVENIENCE 
 
-## Graduated in march 22 from [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time)(Paris, web-development batch #801).
+# Graduated in march 22 from [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time)(Paris, web-development batch #801).
 
-My stack : 
+My stack 💻 
 - Ruby
 - Rails
 - SQL (SQLite3, PostgreSQL) 
@@ -15,7 +15,7 @@ Improving my skills (back + front-end) in order to help you grow your business.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/benjamin-salloum/) 
 
-More coming soon on my GitHub page 💻
+More coming soon on my GitHub page !
 
 
 
