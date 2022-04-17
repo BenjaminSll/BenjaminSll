@@ -1,4 +1,4 @@
-### Hello, I'm Benjamin
+### :wave: I'm Benjamin
 ### :rocket: JUNIOR RUBY ON RAILS FULL-STACK WEB DEV 
 ### LOOKING FOR A POSITION - AVAILABLE AT YOUR EARLIEST CONVENIENCE 
 
