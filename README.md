@@ -1,14 +1,11 @@
 ## 🤝 I'm Benjamin
 ## 🌱 junior full-stack | Ruby on Rails 
-### looking for a position, would love to join a team !
 
-Graduated in march 22 from [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time) (Paris, web-development batch #801).
-
-🖥️ my stack 🔧
-- **Front-end**   HTML5 / Bootstrap / CSS3 / SCSS / ES6 
-- **Back-end**    Ruby 3 / Rails 6 / SQLite / Postgre
-
-Improving my skills (back && front-end) in order to help you grow your business. 
+- [x] 2022 Fullstack web dev bootcamp @ [Le Wagon](https://www.lewagon.com/fr/web-development-course/full-time) (Paris, batch #801).
+- [x] **front-end**   HTML5 / Bootstrap / CSS3 / SCSS / ES6 
+- [x] **back-end**    Ruby 3 / Rails 6 / SQLite / Postgre
+- [x] keep improving my skills (back && front) in order to help you grow your business
+- ### [ ] looking for a position, would love to join a team !
 
 Find me on [LinkedIn](https://www.linkedin.com/in/benjamin-salloum/) 
 
